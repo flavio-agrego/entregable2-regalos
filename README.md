@@ -29,9 +29,6 @@ Se dejaron comentarios en el código para contemplar la evolución del proyecto:
 
 ---
 
-
----
-
 Deploy en GitHub Pages
 El proyecto está publicado en GitHub Pages para poder probarlo online:  
 👉 [Ver simulador funcionando](https://flavio-agrego.github.io/entregable2-regalos/)
